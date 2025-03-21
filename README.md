@@ -2,9 +2,6 @@
 
 This project implements a simple prime number calculator in multiple programming languages to compare their performance. The program counts prime numbers and measures the execution time.
 
-## Last run
-![alt text](image.png)
-
 
 ## Implementations
 
@@ -160,3 +157,6 @@ To view performance comparison between implementations:
 3. Each implementation will report its execution time and prime number count
 
 The results are displayed in a clear format showing the time taken by each implementation, making it easy to compare performance across languages.
+
+## Last run
+![alt text](image.png)
