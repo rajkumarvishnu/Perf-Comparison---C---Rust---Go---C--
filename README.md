@@ -2,6 +2,10 @@
 
 This project implements a simple prime number calculator in multiple programming languages to compare their performance. The program counts prime numbers and measures the execution time.
 
+## Last run
+![alt text](image.png)
+
+
 ## Implementations
 
 The same algorithm is implemented in:
